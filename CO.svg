@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="476.25mm"
+   height="317.5mm"
+   viewBox="0 0 476.25 317.5"
+   version="1.1"
+   id="svg25044"
+   sodipodi:docname="CO.svg"
+   inkscape:export-filename="/home/kavi/Dropbox/maps-flags/50-state-awful-flag/CO.png"
+   inkscape:export-xdpi="218.45334"
+   inkscape:export-ydpi="218.45334"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25046"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="1077.233"
+     inkscape:cy="563.47572"
+     inkscape:window-width="1884"
+     inkscape:window-height="1037"
+     inkscape:window-x="1956"
+     inkscape:window-y="1086"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g25146" />
+  <defs
+     id="defs25041">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient32032">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop32028" />
+      <stop
+         style="stop-color:#1f66e0;stop-opacity:1"
+         offset="1"
+         id="stop32030" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient32032"
+       id="linearGradient32034"
+       x1="837.745"
+       y1="3.382874"
+       x2="860.09375"
+       y2="855.6637"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4.0369264)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(104.9271,59.634073)">
+    <g
+       id="g25146"
+       transform="matrix(0.26458333,0,0,0.26458333,-104.9271,-59.634073)">
+      <rect
+         width="1800"
+         height="859.15485"
+         fill="#002868"
+         id="rect25128-1"
+         x="4.0369263"
+         y="6.1035156e-05"
+         style="fill:url(#linearGradient32034);fill-opacity:1;stroke-width:0.846146" />
+      <g
+         id="g39125"
+         transform="matrix(1.1182627,0,0,1.1182627,-211.4704,-114.97174)">
+        <g
+           id="g33085"
+           style="fill:#552200">
+          <path
+             style="fill:#552200;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1179.3268,864.83365 261.2845,-452.55803 181.9002,538.96919 z"
+             id="path32432"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="fill:#552200;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1327.0129,876.51804 261.2845,-452.55803 181.9002,538.9692 z"
+             id="path32432-2"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="fill:#552200;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1238.0134,885.76107 63.9614,-434.35086 379.2233,520.76203 z"
+             id="path32432-2-0"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <path
+           id="path32432-5"
+           style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1297.2969,483.17383 h 27.8086 l -23.1309,-31.76367 z" />
+        <path
+           id="path33740"
+           style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1554.1094,483.17383 h 54.1718 l -19.9843,-59.21289 z" />
+        <path
+           id="path33736"
+           style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1440.6113,412.27539 -40.9336,70.89844 h 64.8614 z" />
+      </g>
+      <rect
+         width="1800"
+         height="345.24277"
+         fill="#002868"
+         id="rect25128"
+         x="0"
+         y="854.7572"
+         style="fill:#0c461d;fill-opacity:1;stroke-width:0.732585" />
+      <path
+         d="m 1158.4469,740.52539 a 400,400 0 1 1 0,-300 l -370.81001,150 z"
+         fill="#bf0a30"
+         id="path32256-6" />
+      <circle
+         cx="773.04193"
+         cy="590.52539"
+         r="200"
+         fill="#ffd700"
+         id="circle25134" />
+      <rect
+         width="1800"
+         height="1200"
+         fill="#002868"
+         id="rect32252"
+         x="2773.3257"
+         y="-20.419727" />
+      <rect
+         width="1800"
+         height="400"
+         y="379.58026"
+         fill="#ffffff"
+         id="rect32254"
+         x="2773.3257" />
+      <path
+         d="m 3904.1357,729.58027 a 400,400 0 1 1 0,-300 l -370.81,150 z"
+         fill="#bf0a30"
+         id="path32256" />
+      <circle
+         cx="3533.3257"
+         cy="579.58026"
+         r="200"
+         fill="#ffd700"
+         id="circle32258" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.664px;line-height:1.25;font-family:'EB Garamond SC';-inkscape-font-specification:'EB Garamond SC';letter-spacing:0px;word-spacing:0px;fill:#bf0a30;fill-opacity:1;stroke:none;stroke-width:4.4416"
+         x="1184.1361"
+         y="842.03296"
+         id="text35235"><tspan
+           sodipodi:role="line"
+           id="tspan35233"
+           x="1184.1361"
+           y="842.03296"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#bf0a30;fill-opacity:1;stroke-width:4.4416">lorado</tspan></text>
+    </g>
+  </g>
+</svg>

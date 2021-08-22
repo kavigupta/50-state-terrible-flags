@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="610.00018"
+   height="409.99988"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   sodipodi:docname="DE.svg"
+   version="1.0"
+   inkscape:export-filename="/home/kavi/Dropbox/maps-flags/50-state-awful-flag/DE.png"
+   inkscape:export-xdpi="644.60504"
+   inkscape:export-ydpi="644.60504"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata609">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:cy="211.67109"
+     inkscape:cx="307.95756"
+     inkscape:zoom="1.885"
+     inkscape:window-height="1037"
+     inkscape:window-width="1884"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:window-x="1956"
+     inkscape:window-y="1085"
+     inkscape:current-layer="svg2"
+     width="600px"
+     height="400px"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs4">
+    <marker
+       id="ArrowEnd"
+       viewBox="0 0 10 10"
+       refX="0"
+       refY="5"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       markerHeight="3"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         id="path7" />
+    </marker>
+    <marker
+       id="ArrowStart"
+       viewBox="0 0 10 10"
+       refX="10"
+       refY="5"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       markerHeight="3"
+       orient="auto">
+      <path
+         d="M 10,0 0,5 10,10 Z"
+         id="path10" />
+    </marker>
+  </defs>
+  <path
+     id="path14"
+     d="M -2209.1599,2033.9087 Z"
+     style="fill:#000000;stroke:none" />
+  <path
+     id="path92"
+     d="M 5,404.99987 H 605.00017 V 5 H 5 Z"
+     style="fill:#2a54a8;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none" />
+  <g
+     id="g22306"
+     transform="matrix(1.5577033,0,0,1.5577033,-195.55551,-381.19)">
+    <path
+       d="m 175.92423,359.98877 h 12.71643 c 12.38469,0 20.67801,-7.74043 20.67801,-19.95926 0,-11.55536 -7.4087,-18.41117 -19.90397,-18.41117 h -13.49047 z m 7.07697,-6.13706 V 327.7554 h 5.86061 c 8.34861,0 13.10345,4.86541 13.10345,13.21402 0,8.23803 -4.47839,12.88229 -12.49527,12.88229 z"
+       style="font-weight:bold;font-size:55.2888px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:1.38222"
+       id="path10762" />
+    <path
+       id="path10764"
+       style="font-weight:bold;font-size:55.2888px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:1.38222"
+       d="m 202.50586,321.61914 v 0.21289 c 5.41572,1.04595 7.51389,2.72334 10.29687,6.0332 h 21.57813 v -6.24609 z m 14.0957,15.58984 c 0.10404,0.90657 0.16016,1.84558 0.16016,2.82032 0,1.18605 -0.08,2.32905 -0.23242,3.42773 h 16.30468 v -6.24805 z m -4.70898,16.53125 c -2.80122,3.07282 -4.93403,4.26516 -9.38672,5.89649 v 0.35156 h 31.875 v -6.24805 z"
+       sodipodi:nodetypes="cccccccscccccccccc" />
+    <path
+       d="m 241.95587,359.98877 h 23.6636 v -6.30292 h -16.53135 v -32.06751 h -7.13225 z"
+       style="font-weight:bold;font-size:55.2888px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:1.38222"
+       id="path10766" />
+    <path
+       d="m 267.83096,359.98877 h 7.57456 l 3.15146,-9.62025 h 14.70682 l 3.15146,9.62025 h 7.9063 l -13.3246,-38.37043 h -9.12265 z m 12.827,-15.97846 5.30772,-16.25491 5.25244,16.25491 z"
+       style="font-weight:bold;font-size:55.2888px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:1.38222"
+       id="path10768" />
+    <path
+       d="m 317.97784,359.98877 h 7.62985 l 7.57457,-28.58431 8.45918,28.58431 h 7.35341 l 11.8871,-38.37043 h -7.18755 l -8.07216,29.02662 -8.18275,-28.80546 h -7.851 l -7.57457,29.24777 -7.85101,-29.46893 h -8.07216 z"
+       style="font-weight:bold;font-size:55.2888px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:1.38222"
+       id="path10770" />
+    <path
+       d="m 362.59589,359.98877 h 7.57457 l 3.15146,-9.62025 h 14.70682 l 3.15146,9.62025 h 7.9063 l -13.3246,-38.37043 h -9.12265 z m 12.82701,-15.97846 5.30772,-16.25491 5.25244,16.25491 z"
+       style="font-weight:bold;font-size:55.2888px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:1.38222"
+       id="path10772" />
+    <path
+       d="m 404.7259,359.98877 h 7.13225 v -14.3198 h 6.46879 l 8.18275,14.3198 h 8.56976 l -9.62025,-15.8126 c 4.4231,-2.10097 7.18754,-6.19234 7.18754,-11.38949 0,-7.07697 -5.19714,-11.16834 -13.60104,-11.16834 h -14.3198 z m 13.37989,-32.17808 c 4.47839,0 7.13225,2.26684 7.13225,6.08177 0,3.59377 -2.21155,5.75003 -6.19234,5.75003 h -7.18755 v -11.8318 z"
+       style="font-weight:bold;font-size:55.2888px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:1.38222"
+       id="path10774" />
+    <path
+       d="m 440.88474,359.98877 h 25.87516 v -6.24763 H 448.017 v -10.28372 h 17.19482 v -6.24764 H 448.017 v -9.3438 h 18.7429 v -6.24764 h -25.87516 z"
+       style="font-weight:bold;font-size:55.2888px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:1.38222"
+       id="path10776" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'EB Garamond SC';-inkscape-font-specification:'EB Garamond SC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="129.52037"
+     y="287.01578"
+     id="text24417"><tspan
+       sodipodi:role="line"
+       id="tspan24415"
+       x="129.52037"
+       y="287.01578"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff">DECEMBER 7, 1787</tspan></text>
+</svg>
