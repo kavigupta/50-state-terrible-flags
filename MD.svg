@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="198.4375mm"
+   height="132.29167mm"
+   viewBox="0 0 198.4375 132.29167"
+   version="1.1"
+   id="svg89221"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   sodipodi:docname="MD.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview89223"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76078844"
+     inkscape:cx="329.26368"
+     inkscape:cy="474.50774"
+     inkscape:window-width="1884"
+     inkscape:window-height="1037"
+     inkscape:window-x="1956"
+     inkscape:window-y="1085"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs89218">
+    <path
+       id="cross"
+       transform="scale(0.024)"
+       d="m 0,215 a 32,32 0 0 0 32,-32 v -16 h 31 a 32,32 0 0 0 0,-64 H 32 V 32 h 199 v 31 a 32,32 0 0 0 64,0 V 32 h 28 A 32,32 0 0 0 355,0 H 0 Z" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.633709,-22.884611)">
+    <g
+       id="g89344"
+       transform="matrix(5.5121528,0,0,5.5121528,17.633709,22.884611)">
+      <rect
+         fill="#000000"
+         width="36"
+         height="24"
+         id="rect89308"
+         x="0"
+         y="0" />
+      <path
+         fill="#eaaa00"
+         d="M 0,24 V 2 L 3,4 V 24 H 6 V 0 h 3 v 24 h 3 V 0 h 3 v 24 h 3 V 0 h 3 v 24 h 3 V 0 h 3 v 24 h 3 V 0 h 3 v 24 h 3 V 22 L 3,0 v 4 l 30,20 z"
+         id="path89310" />
+      <g
+         id="q2">
+        <path
+           fill="#ffffff"
+           d="m 18,0 h 9 v 12 h 9 V 6 H 18 Z"
+           id="path89312" />
+        <path
+           fill="#9d2235"
+           d="m 27,0 h 9 V 6 H 18 v 6 h 9 z"
+           id="path89314" />
+        <g
+           transform="translate(27,6)"
+           id="g89324">
+          <use
+             fill="#9d2235"
+             xlink:href="#cross"
+             id="use89316"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             transform="scale(-1,1)"
+             xlink:href="#cross"
+             id="use89318"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             transform="scale(1,-1)"
+             xlink:href="#cross"
+             id="use89320"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#9d2235"
+             transform="scale(-1)"
+             xlink:href="#cross"
+             id="use89322"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <use
+         id="q3"
+         x="-18"
+         y="12"
+         xlink:href="#q2"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
+</svg>
