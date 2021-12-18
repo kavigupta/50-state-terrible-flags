@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="100mm"
+   viewBox="0 0 200 99.999998"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="NE.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.93873513"
+     inkscape:cx="401.0716"
+     inkscape:cy="98.536847"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(72.206726,-74.239502)">
+    <rect
+       style="color:#000000;overflow:visible;fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-width:2.65504;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846"
+       width="200"
+       height="100"
+       x="-72.206726"
+       y="74.239502"
+       inkscape:export-filename="/home/kavi/temp.png"
+       inkscape:export-xdpi="520.19202"
+       inkscape:export-ydpi="520.19202" />
+    <rect
+       style="color:#000000;overflow:visible;fill:#ff0000;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-7"
+       width="149.60283"
+       height="74.546761"
+       x="-47.184814"
+       y="86.707863"
+       inkscape:export-filename="/home/kavi/temp.png"
+       inkscape:export-xdpi="520.19202"
+       inkscape:export-ydpi="520.19202" />
+    <g
+       id="g1601"
+       transform="matrix(2.2113041,0,0,2.2113041,35.969362,-118.95264)"
+       style="stroke-width:0.904444;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/kavi/temp.png"
+       inkscape:export-xdpi="520.19202"
+       inkscape:export-ydpi="520.19202">
+      <rect
+         style="color:#000000;overflow:visible;fill:#ff0000;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.904444;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect846-7-5"
+         width="15.036361"
+         height="15.036361"
+         x="-26.331842"
+         y="102.34183" />
+      <rect
+         style="color:#000000;overflow:visible;fill:#ff0000;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.904444;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect846-7-5-5"
+         width="15.036361"
+         height="15.036361"
+         x="-11.295482"
+         y="102.34183" />
+      <rect
+         style="color:#000000;overflow:visible;fill:#0000ff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.904444;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect846-7-5-5-6"
+         width="15.036361"
+         height="15.036361"
+         x="3.7408791"
+         y="102.34183" />
+    </g>
+  </g>
+</svg>
