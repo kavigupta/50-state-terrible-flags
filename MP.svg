@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="611.25562mm"
+   height="356.81943mm"
+   viewBox="0 0 611.25562 356.81943"
+   version="1.1"
+   id="svg138423"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="MP.svg"
+   inkscape:export-filename="/home/kavi/temp.png"
+   inkscape:export-xdpi="170.20206"
+   inkscape:export-ydpi="170.20206"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview138425"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.39688275"
+     inkscape:cx="1402.1774"
+     inkscape:cy="1059.5069"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs138420">
+    <clipPath
+       id="c1">
+      <path
+         d="M 0,0 H 6 V 3 H 0 Z"
+         id="path138540" />
+    </clipPath>
+    <clipPath
+       id="c2">
+      <path
+         d="M 0,0 V 1.5 H 6 V 3 3 Z M 6,0 H 3 V 3 H 0 v 0 z"
+         id="path138543" />
+    </clipPath>
+    <path
+       id="Star7"
+       d="M 0,-360 69.421398,-144.15502 281.45933,-224.45633 155.98847,-35.603349 350.97405,80.107536 125.09304,99.758368 156.19815,324.34879 0,160 -156.19815,324.34879 -125.09304,99.758368 -350.97405,80.107536 -155.98847,-35.603349 -281.45933,-224.45633 l 212.037932,80.30131 z" />
+    <path
+       id="Star5"
+       d="M 0,-210 54.859957,-75.508253 199.72187,-64.893569 88.765275,28.841586 123.4349,169.89357 0,93.333333 -123.4349,169.89357 -88.765275,28.841586 -199.72187,-64.893569 -54.859957,-75.508253 Z" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(252.48301,67.356013)">
+    <rect
+       style="color:#000000;overflow:visible;opacity:1;fill:#3c3b6e;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.612477;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect138674"
+       width="610.64313"
+       height="356.20694"
+       x="-252.17677"
+       y="-67.049774"
+       inkscape:export-filename="/home/kavi/temp.png"
+       inkscape:export-xdpi="170.20206"
+       inkscape:export-ydpi="170.20206" />
+    <g
+       id="g143511"
+       style="fill:#ffffff"
+       transform="matrix(0.7397644,0.7397644,-0.7397644,0.7397644,-4.077828,-132.10535)"
+       inkscape:export-filename="/home/kavi/temp.png"
+       inkscape:export-xdpi="170.20206"
+       inkscape:export-ydpi="170.20206">
+      <use
+         id="Comwlth-3"
+         xlink:href="#Star7"
+         transform="matrix(0.08297119,0,0,0.08297119,314.54983,165.82941)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1"
+         xlink:href="#Star7"
+         transform="matrix(0.04753264,0,0,0.04753264,289.39902,221.40882)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-8"
+         xlink:href="#Star7"
+         transform="matrix(0.04753264,0,0,0.04753264,318.21551,-7.1899548)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9"
+         xlink:href="#Star7"
+         transform="matrix(0.03308438,0,0,0.03308438,312.37235,97.697457)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6"
+         xlink:href="#Star7"
+         transform="matrix(0.03308438,0,0,0.03308438,314.80399,-43.65856)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4"
+         xlink:href="#Star7"
+         transform="matrix(0.01325691,0,0,0.01325691,319.07102,79.107986)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4-3"
+         xlink:href="#Star7"
+         transform="matrix(0.00934974,0,0,0.00934974,320.50972,42.882826)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4-3-3"
+         xlink:href="#Star7"
+         transform="matrix(0.00934974,0,0,0.00934974,337.2616,122.47403)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4-3-3-3"
+         xlink:href="#Star7"
+         transform="matrix(0.00732543,0,0,0.00732543,321.20328,25.652036)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4-3-3-8"
+         xlink:href="#Star7"
+         transform="matrix(0.00602785,0,0,0.00602785,303.6654,-94.034978)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4-3-3-8-6"
+         xlink:href="#Star7"
+         transform="matrix(0.00602785,0,0,0.00602785,291.85256,-113.32596)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4-3-3-8-0"
+         xlink:href="#Star7"
+         transform="matrix(0.00602785,0,0,0.00602785,297.12374,-111.32676)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4-3-3-8-4"
+         xlink:href="#Star7"
+         transform="matrix(0.00602785,0,0,0.00602785,295.95002,-117.38813)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4-3-3-8-8"
+         xlink:href="#Star7"
+         transform="matrix(0.00602785,0,0,0.00602785,287.94693,-119.10729)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4-3-3-8-88"
+         xlink:href="#Star7"
+         transform="matrix(0.00602785,0,0,0.00602785,290.67706,-123.0511)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4-3-3-8-7"
+         xlink:href="#Star7"
+         transform="matrix(0.00602785,0,0,0.00602785,280.16515,-143.49182)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+      <use
+         id="Comwlth-3-1-9-6-4-3-3-8-9"
+         xlink:href="#Star7"
+         transform="matrix(0.00602785,0,0,0.00602785,286.19063,-123.56307)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#ffffff" />
+    </g>
+    <g
+       id="g138650"
+       transform="matrix(0.04409722,0,0,0.04409722,-252.48301,-67.356013)"
+       inkscape:export-filename="/home/kavi/temp.png"
+       inkscape:export-xdpi="170.20206"
+       inkscape:export-ydpi="170.20206">
+      <rect
+         width="7410"
+         height="3900"
+         fill="#b22234"
+         id="rect138595"
+         x="0"
+         y="0" />
+      <path
+         d="m 0,450 h 7410 m 0,600 H 0 m 0,600 h 7410 m 0,600 H 0 m 0,600 h 7410 m 0,600 H 0"
+         stroke="#ffffff"
+         stroke-width="300"
+         id="path138597" />
+      <rect
+         width="2964"
+         height="2100"
+         fill="#3c3b6e"
+         id="rect138599"
+         x="0"
+         y="0" />
+      <g
+         fill="#ffffff"
+         id="g138624">
+        <g
+           id="s18">
+          <g
+             id="s9">
+            <g
+               id="s5">
+              <g
+                 id="s4">
+                <path
+                   id="s"
+                   d="M 247,90 317.53423,307.08204 132.87322,172.91796 H 361.12678 L 176.46577,307.08204 Z" />
+                <use
+                   xlink:href="#s"
+                   y="420"
+                   id="use138602"
+                   x="0"
+                   width="100%"
+                   height="100%" />
+                <use
+                   xlink:href="#s"
+                   y="840"
+                   id="use138604"
+                   x="0"
+                   width="100%"
+                   height="100%" />
+                <use
+                   xlink:href="#s"
+                   y="1260"
+                   id="use138606"
+                   x="0"
+                   width="100%"
+                   height="100%" />
+              </g>
+              <use
+                 xlink:href="#s"
+                 y="1680"
+                 id="use138609"
+                 x="0"
+                 width="100%"
+                 height="100%" />
+            </g>
+            <use
+               xlink:href="#s4"
+               x="247"
+               y="210"
+               id="use138612"
+               width="100%"
+               height="100%" />
+          </g>
+          <use
+             xlink:href="#s9"
+             x="494"
+             id="use138615"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <use
+           xlink:href="#s18"
+           x="988"
+           id="use138618"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           xlink:href="#s9"
+           x="1976"
+           id="use138620"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           xlink:href="#s5"
+           x="2470"
+           id="use138622"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+  </g>
+</svg>
